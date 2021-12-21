@@ -2,7 +2,7 @@
 
 namespace L2_8_Zad_10
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
